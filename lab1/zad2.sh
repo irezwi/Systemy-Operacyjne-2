@@ -1,3 +1,5 @@
+#!/bin/bash
+
 for file in "$1"/*
 do
 	size=$(wc -c < $file)
@@ -6,3 +8,6 @@ do
 		echo $file
 	fi
 done
+
+# Kasowanie wszystkich plików pustych (o zerowej wielkości) w zadanym katalogu (parametr wywołania skryptu).
+# Skrypt powinien wyswietlic listę skasowanych plików.
