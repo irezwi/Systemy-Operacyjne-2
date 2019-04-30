@@ -10,7 +10,7 @@ find $1 -name "*.c" -o -name "*.h" | wc -l
 find $1 -not -path "*/lib/*" | wc -l
 
 # wyświetla liczbę wszystkich plików których nazwa zaczyna się na literę a
-find $1 -type f -name "b*" | wc -l
+find $1 -type f -name "a*" | wc -l
 
 # wyświetla liczbę wszystkich plików .h mniejszych niż 5KB
-find $1 -type f -name "*.c" -size -5120c
+find $1 -type f -name "*.h" -size -5120c
