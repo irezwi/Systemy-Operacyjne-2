@@ -1,0 +1,25 @@
+asdasd
+adasdas
+
+asdasdas
+TODO
+adasd
+adsas
+
+da;d;
+a;da
+da{
+
+aasd{}
+asd123}
+12345
+a
+asd(())asdda
+asd(((asdad)))asdsadda
+0xff9900
+0xFF9900
+0xff9900 asdg
+0xKJ00AD
+BEES_PNG=$(dirname $0)/bees.png
+ASD=$(dirname $0)/ad.jpeg
+struct abc
