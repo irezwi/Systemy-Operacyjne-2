@@ -7,4 +7,3 @@ for d in os.listdir(path):
     if os.path.isdir(d):
         os.rename(d, d + '-copy')
 
-
